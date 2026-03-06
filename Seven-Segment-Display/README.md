@@ -21,3 +21,5 @@ The microcontroller sends signals to the segments to form the required digit.
 The project Video details here:
 
 🔗 https://drive.google.com/drive/folders/1o28pGg4Adg5irw3NeGfzp-pprqk286oc?usp=sharing
+
+**Note:** This is a real hardware project that was physically built, soldered, and tested by me using actual electronic components.
