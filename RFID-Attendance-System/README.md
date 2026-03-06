@@ -17,4 +17,5 @@ This allows attendance to be monitored from another device in real time.
 
 ## 📁 Project Files
 Google Drive Link:
-(G link)
+
+  (https://drive.google.com/drive/folders/18fkFX7LEL2YXSeMP1bNidURQR_f5VMJZ?usp=sharing)
