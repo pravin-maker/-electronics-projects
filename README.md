@@ -1,7 +1,7 @@
 # -electronics-projects
 My electronics and embedded system projects including Arduino, RFID, LED circuits, ESP and hardware explorations.
 
-**Note:** This is a real hardware project that was physically built, soldered, and tested by me using actual electronic components.
+**Note:** The projects here are real hardware projects, assembled and tested by me with actual electronic components. No simulations were used
 
 ## 📂 Project List
 
