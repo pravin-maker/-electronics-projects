@@ -1,5 +1,5 @@
 # -electronics-projects
-My electronics and embedded system projects including Arduino, RFID, LED circuits,ESP and hardware explorations.
+My electronics and embedded system projects including Arduino, RFID, LED circuits, ESP and hardware explorations.
 
 ## 📂 Project List
 
