@@ -19,3 +19,5 @@ This project focuses on exploring and analysing different electronic circuit boa
 If you are interested, feel free to view the project photos and videos here:
 
 🔗 https://drive.google.com/drive/folders/1Ds_7ovU_xawc0XupDslZSAihSAdmza_P?usp=sharing
+
+**Note:** This is a real hardware project that was physically built, soldered, and tested by me using actual electronic components.
