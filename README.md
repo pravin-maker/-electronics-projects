@@ -7,3 +7,4 @@ My electronics and embedded system projects including Arduino, RFID, LED circuit
 2. 🪪 [RFID Attendance System](./RFID-Attendance-System)
 3. 🔍 [Circuit Exploration](./Circuit-Exploration)
 4. 🌡 [Sensor Experiments](./Sensor-Experiments)
+5. 💡 [Shift Register LED Control](./Shift-Register-LED-Control)
