@@ -1,6 +1,8 @@
 # -electronics-projects
 My electronics and embedded system projects including Arduino, RFID, LED circuits, ESP and hardware explorations.
 
+**Note:** This is a real hardware project that was physically built, soldered, and tested by me using actual electronic components.
+
 ## 📂 Project List
 
 1. 🔦 [LED Chaser](./LED-Chaser)
