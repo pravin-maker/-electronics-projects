@@ -18,6 +18,6 @@ The microcontroller sends signals to the segments to form the required digit.
 
 ## 📁 Project Files
 
-If you have free time, you can view the project details here:
+The project Video details here:
 
-🔗 https://drive.google.com/your-link
+🔗 https://drive.google.com/drive/folders/1o28pGg4Adg5irw3NeGfzp-pprqk286oc?usp=sharing
