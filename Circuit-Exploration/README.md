@@ -18,4 +18,4 @@ This project focuses on exploring and analysing different electronic circuit boa
 ## 📁 Project Files
 If you are interested, feel free to view the project photos and videos here:
 
-🔗 htts
+🔗 https://drive.google.com/drive/folders/1Ds_7ovU_xawc0XupDslZSAihSAdmza_P?usp=sharing
