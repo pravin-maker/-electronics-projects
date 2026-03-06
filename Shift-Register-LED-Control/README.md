@@ -27,4 +27,4 @@ The circuit was assembled and soldered on a dot PCB board for a stable hardware 
 
 🔗 View Project Photos & Videos:  
 
-https://drive.google.com/your-link
+  https://drive.google.com/drive/folders/1rS1Keie2cFjLelC6DCdJYqW49NDHVsvy?usp=sharing
