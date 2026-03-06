@@ -28,3 +28,6 @@ The circuit was assembled and soldered on a dot PCB board for a stable hardware 
 🔗 View Project Photos & Videos:  
 
   https://drive.google.com/drive/folders/1rS1Keie2cFjLelC6DCdJYqW49NDHVsvy?usp=sharing
+
+
+**Note:** This is a real hardware project that was physically built, soldered, and tested by me using actual electronic components.
