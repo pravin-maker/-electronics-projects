@@ -11,3 +11,4 @@ My electronics and embedded system projects including Arduino, RFID, LED circuit
 4. 🌡 [Sensor Experiments](./Sensor-Experiments)
 5. 💡 [Shift Register LED Control](./Shift-Register-LED-Control)
 6. 🔢 [7-Segment LED Display](./Seven-Segment-Display)
+7. 🔧 [Device Restoration](./Restoration-Projects)
