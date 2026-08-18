@@ -4,7 +4,14 @@ My electronics and embedded system projects including Arduino, RFID, LED circuit
 **Note:** The projects here are real hardware projects, assembled and tested by me with actual electronic components. No simulations were used
 
 ## 📂 Project List
-https://camo.githubusercontent.com/8ce49a8a1bd2e09a5eb5a4962bc0ba64b2c7d1d453b3beb5ad2cd7e82f02fccf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666c61742d737175617265266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465
+## 🛠️ Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)
 1. 🔦 [LED Chaser](./LED-Chaser)
 2. 🪪 [RFID Attendance System](./RFID-Attendance-System)
 3. 🔍 [Circuit Exploration](./Circuit-Exploration)
